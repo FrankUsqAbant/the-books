@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/the-books/static/css/main.9d2c4429.css",
+    "main.js": "/the-books/static/js/main.c76b809b.js",
+    "static/js/787.9b113b6f.chunk.js": "/the-books/static/js/787.9b113b6f.chunk.js",
+    "index.html": "/the-books/index.html",
+    "main.9d2c4429.css.map": "/the-books/static/css/main.9d2c4429.css.map",
+    "main.c76b809b.js.map": "/the-books/static/js/main.c76b809b.js.map",
+    "787.9b113b6f.chunk.js.map": "/the-books/static/js/787.9b113b6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d2c4429.css",
+    "static/js/main.c76b809b.js"
+  ]
+}
